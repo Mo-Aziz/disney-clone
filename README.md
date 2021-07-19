@@ -5,8 +5,9 @@
 ////////////////////
 -1 styled components
 2-react js
-3*react router dom from react.
-
+3-react router dom from react.
+4-Redux
+5-Firebase auth and db
  
 
 ### Project features.

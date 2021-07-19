@@ -39,7 +39,7 @@ const Content = styled.div`
   height: 100%;
 `;
 
-const BgImage = styled.div`
+const BGImage = styled.div`
   height: 100%;
   background-position: top;
   background-size: cover;
