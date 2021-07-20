@@ -8,6 +8,7 @@
 3-react router dom from react.
 4-Redux toolkit
 5-Firebase auth and db
+6-slick-carousel/react-slick
  
 
 ### Project features.
