@@ -6,7 +6,6 @@ import { useHistory } from "react-router-dom";
 import {
   selectUserName,
   selectUserPhoto,
-  selectUserEmail,
   setUserLoginDetails,
   setSignOutState
 } from "../features/user/userSlice";

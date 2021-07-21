@@ -17,7 +17,7 @@ const movieSlice = createSlice({
       state.trending = action.payload.trending;
     },
   },
-});
+},);
 
 export const { setMovies} = movieSlice.actions;
 
