@@ -78,7 +78,10 @@ const Background = styled.div`
     width: 100vw;
     height: 100vh;
     @media (max-width: 768px) {
-      width:auto;
+      padding-top: 10px;
+      margin-top:50px;
+      width:100vw;
+      height:auto;
     }
   }
 `;
